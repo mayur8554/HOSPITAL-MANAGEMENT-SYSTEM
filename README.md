@@ -1,0 +1,1 @@
+The Hospital Management System is a console-based application developed in C. It manages patient information within a hospital, providing functionalities such as adding, removing, updating, and searching for patient data. It also allows displaying all patients, showcasing the top three patients based on the number of days admitted, and sending messages to patients.
